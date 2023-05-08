@@ -1,14 +1,1 @@
-.Card-content {
-  font-size: 1.1rem;
-  line-height: 1.5;
-  color: #333;
-}
-
-.Card-content h2 {
-  font-size: 1.5rem;
-  margin-bottom: 0.5rem;
-}
-
-.Card-content p {
-  margin-bottom: 1rem;
-}
+/* Custom CSS for App.tsx */
